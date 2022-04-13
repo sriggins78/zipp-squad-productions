@@ -1,0 +1,13 @@
+/*Zipp Squad Stylesheet*/
+
+
+
+
+
+
+@media(max-width:768px){
+	.carousel .carousel-inner .logo {
+		height: auto;
+	}
+}
+
